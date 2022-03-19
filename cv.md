@@ -22,6 +22,14 @@ programming. I want to work in big IT companies in the future.
 - Git/GitHub
 - Figma
 
+### Code examples
+
+```js
+function multiply(a, b) {
+  return a * b;
+}
+```
+
 ### Languages
 
 - **Kyrgyz**-native.
